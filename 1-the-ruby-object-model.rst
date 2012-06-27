@@ -8,7 +8,7 @@ Note: I *may* be completly wrong here.
 
 ~~~~
 
-## Part 1 - The Object Model
+## Part 1 - The Ruby Object Model
 
 * Classes are code
 * Classes vs. objects
